@@ -27,4 +27,4 @@ Projeto para cadastrar informações de usuários usando uma API conectada a um 
 5. É possível cadastrar múltiplos usuários, porém emails repetidos não são permitidos.  
 6. Para excluir um usuário, use o botão de exclusão no card correspondente.
 
-> Observação: o cadastro pode demorar um pouco devido ao pouco uso da API.
+> ⚠️**Observação:** o cadastro pode demorar um pouco devido ao pouco uso da API.

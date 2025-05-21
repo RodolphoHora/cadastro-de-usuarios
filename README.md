@@ -1,12 +1,35 @@
-# React + Vite
+Cadastro de Usuários
+Projeto para cadastrar informações de usuários usando uma API conectada a um banco MongoDB. Permite adicionar e excluir usuários, exibindo-os em cards abaixo do formulário.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tecnologias
+React (com Vite)
 
-Currently, two official plugins are available:
+CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+API em JavaScript com Axios
 
-## Expanding the ESLint configuration
+MongoDB
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Hospedagem: Frontend no Vercel e API no Firebase
+
+Demonstração
+
+Exemplo do formulário para cadastro de usuários.
+
+
+Usuários exibidos em cards com opção de exclusão.
+
+Como usar
+Acesse o link do projeto hospedado (forneça o link aqui).
+
+Preencha o formulário com nome, idade e email.
+
+Clique em "Registrar".
+
+Após o cadastro, o usuário aparece em um card abaixo do formulário.
+
+É possível cadastrar múltiplos usuários, porém emails repetidos não são permitidos.
+
+Para excluir um usuário, use o botão de exclusão no card correspondente.
+
+Observação: o cadastro pode demorar um pouco devido ao uso da API.

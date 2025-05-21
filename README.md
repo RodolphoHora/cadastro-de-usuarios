@@ -13,7 +13,7 @@ Projeto para cadastrar informações de usuários usando uma API conectada a um 
 ## Demonstração
 
 ![image](https://github.com/user-attachments/assets/2212a93e-2ed4-4fe1-95fa-0810e7ad4bb8)
-*Exemplo do formulário para cadastro de usuários.*
+*Formulário para cadastro de usuários.*
 
 ![Lista de usuários cadastrados](./public/lista-de-usuarios.png)  
 *Usuários exibidos em cards com opção de exclusão.*

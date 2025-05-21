@@ -20,7 +20,7 @@ Projeto para cadastrar informações de usuários usando uma API conectada a um 
 
 ## Como usar
 
-1. Acesse o link do projeto hospedado (forneça o link aqui).  
+1. Acesse o link do projeto hospedado (https://cadastro-de-usuarios-sigma.vercel.app).  
 2. Preencha o formulário com nome, idade e email.  
 3. Clique em "Registrar".  
 4. Após o cadastro, o usuário aparece em um card abaixo do formulário.  

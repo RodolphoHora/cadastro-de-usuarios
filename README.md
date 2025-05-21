@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2212a93e-2ed4-4fe1-95fa-0810e7ad4bb8)# Cadastro de Usuários
+# Cadastro de Usuários
 
 Projeto para cadastrar informações de usuários usando uma API conectada a um banco MongoDB. Permite adicionar e excluir usuários, exibindo-os em cards abaixo do formulário.
 
@@ -12,10 +12,10 @@ Projeto para cadastrar informações de usuários usando uma API conectada a um 
 
 ## Demonstração
 
-![Interface do formulário de cadastro](./public/interface-do-formulario.png)  
+![image](https://github.com/user-attachments/assets/2212a93e-2ed4-4fe1-95fa-0810e7ad4bb8)
 *Exemplo do formulário para cadastro de usuários.*
 
-![Lista de usuários cadastrados](./public/lista-de-usuarios)  
+![Lista de usuários cadastrados](./public/lista-de-usuarios.png)  
 *Usuários exibidos em cards com opção de exclusão.*
 
 ## Como usar
